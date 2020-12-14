@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">RSSReader</string>
+    <string name="source_text">source:</string>
+    <string name="default_rss_source">https://www.kommersant.ru/RSS/news.xml</string>
+    <string name="tut_by_rss">https://news.tut.by/rss/world.rss</string>
+    <string name="load_text">load</string>
+    <string name="some_rss">https://www.zrpress.ru/rss/crime.xml</string>
+    <string name="lentaru_rss">https://lenta.ru/rss/news</string>
+    <string-array name="catNames">
+        <item>Барсик</item>
+        <item>Мурзик</item>
+        <item>Васька</item>
+        <item>Рыжик</item>
+    </string-array>
+</resources>
